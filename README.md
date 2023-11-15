@@ -1,6 +1,6 @@
 # websocket-service
 # To run project
-# Firt create config.yaml any where we want
+# First create config.yaml any where we want
     channels:
       - chat
       - one
