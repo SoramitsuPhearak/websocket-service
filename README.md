@@ -11,7 +11,6 @@
       timeout: 15
       masking: false
 # Second create $CONFIG_PATH via terminal
-      mkdir $CONFIG_PATH
       export CONFIG_PATH=path_directory_of_config.yaml
 # Third run projet by commandline 
       ./websocket-service
